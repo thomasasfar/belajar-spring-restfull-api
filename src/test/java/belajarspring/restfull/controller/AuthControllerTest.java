@@ -3,7 +3,6 @@ package belajarspring.restfull.controller;
 import belajarspring.restfull.entity.User;
 import belajarspring.restfull.model.LoginUserRequest;
 import belajarspring.restfull.model.TokenResponse;
-import belajarspring.restfull.model.UserResponse;
 import belajarspring.restfull.model.WebResponse;
 import belajarspring.restfull.repository.UserRepository;
 import belajarspring.restfull.security.BCrypt;
